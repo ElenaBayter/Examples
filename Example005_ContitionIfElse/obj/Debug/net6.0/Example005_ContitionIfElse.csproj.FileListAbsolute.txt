@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\bin\Debug\net6.0\Example005_ContitionIfElse.exe
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\bin\Debug\net6.0\Example005_ContitionIfElse.deps.json
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\bin\Debug\net6.0\Example005_ContitionIfElse.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\bin\Debug\net6.0\Example005_ContitionIfElse.dll
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\bin\Debug\net6.0\Example005_ContitionIfElse.pdb
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.dll
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\refint\Example005_ContitionIfElse.dll
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.pdb
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\Example005_ContitionIfElse.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\examples\Example005_ContitionIfElse\obj\Debug\net6.0\ref\Example005_ContitionIfElse.dll
